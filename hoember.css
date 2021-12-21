@@ -1,0 +1,78 @@
+#tarolo{
+    width:600px;
+    height: 700px;
+    background-color: darkblue;
+    margin: auto;
+    position: relative;
+    background-image: url(Images/giphy.gif);
+    background-size: cover;
+}
+.hogomb{
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+}
+#felso{
+    width: 150px;
+    height: 150px;
+    left: 225px;
+    top: 200px;
+}
+
+#kozepso{
+    width: 200px;
+    height: 200px;
+    left: 200px;
+    top: 300px
+}
+
+#also{
+    height: 300px;
+    width: 300px;
+    top: 450px;
+    left: 150px;
+}
+
+.gomb {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 30px;
+    
+}
+#kalap{
+    width: 150px;
+    height: 50px;
+    background-color: brown;
+    position: absolute;
+left: 225px;
+top: 170px;
+}
+#kalapteto{
+    width: 75px;
+    height: 100px;
+    background-color: brown;
+    position: absolute;
+    left: 265px;
+    top: 120px;
+}
+.gomb2 {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+    
+    margin-top: 50px;
+    display: inline-block;
+    margin-left: 30px;
+}
+.orr{
+    height: 10px;
+    width: 50px;
+    background-color: darkorange;
+    border-radius: 50%;
+    margin-left: 25px;
+    margin-top: 8px;
+}
